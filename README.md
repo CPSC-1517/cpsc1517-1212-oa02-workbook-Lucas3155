@@ -1,5 +1,5 @@
-# Basic Starter Kit
+# CPSC1517 Workbook repository
 
-## Owner your name
+## Yi-Wen Tsai workbook
 
 alter this statement to indicate the usage of this repository
